@@ -22,7 +22,7 @@ I specialize in **Next.js / React / Prisma / Node.js** and enjoy working across 
 ---
 
 ### 📫 Connect with me
-- 📄 [Telegram] (https://t.me/Ryzhenskiy)
+- 📄 [Telegram](https://t.me/Ryzhenskiy)
 - ✉️ [Email](mailto:dimachubyk228@gmail.com)
 
 
